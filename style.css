@@ -217,7 +217,7 @@ a:focus {
 /* Shorthand grid-area: grid-row-start / grid-column-start / grid-row-end / grid-column-end */
 
 .pos-1 {
-	grid-area: 10 / 1 / 26 / 7;
+	grid-area: 5 / 2 / 21 / 8;
 }
 
 .pos-2 {
@@ -229,7 +229,7 @@ a:focus {
 }
 
 .pos-4 {
-	grid-area: 13 / 11 / 32 / 18;
+	grid-area: 17 / 11 / 36 / 18;
 }
 
 .pos-5 {
@@ -241,7 +241,7 @@ a:focus {
 }
 
 .pos-7 {
-	grid-area: 43 / 1 / 51 / 10;
+	grid-area: 39 / 1 / 55 / 10;
 }
 
 .pos-8 {
@@ -253,19 +253,19 @@ a:focus {
 }
 
 .pos-10 {
- 	grid-area: 37 / 39 / 48 / 47;
+ 	grid-area: 37 / 39 / 52 / 47;
 }
 .pos-11 {
 	grid-area: 15 / 23 / 32 / 30;
 }
 .pos-12{
-	grid-area: 2 / 10 / 11 / 19;
+	grid-area: 2 / 10 / 16 / 19;
 }
 .pos-13{
 	grid-area: 1 / 33 / 14 / 39;
 }
 .pos-14{
-	grid-area: 42 / 3 / 27 / 9;
+	grid-area: 38 / 3 / 23 / 9;
 }
 .content__title {
 	font-family: myFont;
